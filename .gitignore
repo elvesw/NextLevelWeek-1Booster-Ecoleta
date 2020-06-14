@@ -24,7 +24,7 @@ web-report/
 yarn.lock
 
 # Database File
-database.sqlite
+*.sqlite
 
 # dotEnv
 .env
